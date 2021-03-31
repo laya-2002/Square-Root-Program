@@ -10,4 +10,7 @@ At that time, I got an idea to create a function which finds square root of a po
 Then I have created this program and tried to find square root of a positive integer.
 The program was successful in finding square roots.
 In this way, I have solved the problem of finding hypotenuese of a right-angled triangle. 
-In this repository, I have created programs in multiple programming languages.
+In this repository, I have created programs in multiple programming languages. 
+
+# Note
+These programs give output only when the input given is a perfect square. 
