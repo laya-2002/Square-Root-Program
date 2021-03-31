@@ -1,7 +1,7 @@
 # Square-Root-Program
 A computer program to find square root of a positive integer, if there is no pre-defined function to find it in a programming language. 
 
-# My idea
+# Idea
 During COVID-19 lockdown, I was practicing the programming on a website. The website have online IDE, for compiling the programs. One of the problems is to find hypotenuese of a right-angled triangle. I started doing the problem in C language. For finding the square root, I have used "#include<math.h>" library in the code, and "sqrt" pre-defined function 
 too. But after compiling, that IDE is showing error. sqrt() is  undefined it displayed. So, I was unable to find the square root in the program.
 
