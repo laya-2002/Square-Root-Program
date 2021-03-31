@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class square_root
+class Sqrt
 {
     public static void main(String args[])
     {
